@@ -1,12 +1,12 @@
 package gtoggl
 
 import (
-	"github.com/dougEfresh/gtoggl-api/gtclient"
-	"github.com/dougEfresh/gtoggl-api/gthttp"
-	"github.com/dougEfresh/gtoggl-api/gtproject"
-	"github.com/dougEfresh/gtoggl-api/gttimentry"
-	"github.com/dougEfresh/gtoggl-api/gtuser"
-	"github.com/dougEfresh/gtoggl-api/gtworkspace"
+	"github.com/hyzgh/gtoggl-api/gtclient"
+	"github.com/hyzgh/gtoggl-api/gthttp"
+	"github.com/hyzgh/gtoggl-api/gtproject"
+	"github.com/hyzgh/gtoggl-api/gttimentry"
+	"github.com/hyzgh/gtoggl-api/gtuser"
+	"github.com/hyzgh/gtoggl-api/gtworkspace"
 )
 
 // Client is an Toggl REST client. Created by calling NewClient.
